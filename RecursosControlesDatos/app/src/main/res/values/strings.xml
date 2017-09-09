@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecursosControlesDatos</string>
+    <string-array name="arraypresidentes">
+        <item>Enrique Peña Miento</item>
+        <item>Felipe Calderon</item>
+        <item>Viente FOx</item>
+        <item>Ernesto Zedillo</item>
+        <item>Carlos Salians</item>
+        <item>Jpse lOpez Portillo</item>
+    </string-array>
+</resources>
