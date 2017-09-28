@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="texto_tema1">Tema 1</string>
+    <string name="texto_tema2">Tema 2</string>
+    <string name="texto_label">Pantalla en Vertical</string>
+
+</resources>
